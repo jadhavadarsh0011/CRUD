@@ -1,0 +1,44 @@
+.body {
+    background-color: gray;
+    border: 2px solid black;
+    height: 580px;
+    width: 650px;
+    text-align: center;
+    justify-self: center;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.address {
+    height: 100px;
+    width: 500px;
+    margin-top: 30px;
+    /* background-color: rgb(226, 207, 120); */
+    color: rgb(8, 8, 8);
+}
+
+.submit {
+    background-color: rgb(86, 95, 86);
+    color: wheat;
+    height: 40px;
+    width: 200px;
+    margin-top: 15px;
+
+}
+
+.input {
+    margin-top: 30px;
+    width: 500px;
+    height: 30px;
+    /* background-color: rgb(226, 207, 120); */
+    color: rgb(15, 15, 15);
+    /* border: none; */
+
+}
+
+h1 {
+    height: 0px;
+}
+.span{
+    border-bottom: 2px solid black;
+}

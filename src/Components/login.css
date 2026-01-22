@@ -1,0 +1,27 @@
+.body {
+    background-color: grey;
+    border: 2px solid black;
+    height: 580px;
+    width: 650px;
+    text-align: center;
+    justify-self: center;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+input {
+    margin-top: 30px;
+    width: 500px;
+    height: 30px;
+    /* background-color: rgb(226, 207, 120); */
+    color: rgb(15, 15, 15);
+    /* border: none; */
+
+}
+.loginsub {
+    background-color: rgb(221, 201, 23);
+    color: black;
+    height: 40px;
+    width: 200px;
+    margin-top: 45px;
+}

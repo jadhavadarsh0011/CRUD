@@ -1,0 +1,38 @@
+button{
+    height: 25px;
+    width: 80px;
+    margin-top: 10px;
+    background-color: rgb(150, 71, 224);
+    margin-left: 4px;
+    margin-bottom: 10px;
+    margin-right: 4px;
+}
+button:hover{
+    background-color: rgb(236, 236, 229);
+    color: rgb(31, 27, 27);
+    border-color: rgb(42, 165, 42);
+    box-shadow: 2px 3px 40px rgb(36, 189, 36);
+}
+.thead{
+    background-color: rgb(80, 173, 18);
+    color:white;
+    height: 30px;
+    border: 0px solid black;
+}
+table{
+    background-color: rgb(127, 199, 209);
+    text-align: center;
+    color: rgb(20, 20, 20);
+border: 5px solid white;
+}
+td{
+    height: 20px;
+    width: 200px;
+     border: 1px solid black;
+
+}
+tbody{
+    height: 20px;
+     border: 1px solid black;
+
+}
